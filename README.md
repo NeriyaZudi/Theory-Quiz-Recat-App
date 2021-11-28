@@ -23,8 +23,15 @@
    * **JavaScript programming principles**
    * **Basic design in Html 5**
    * **Advanced design in CSS**
-   * **Frontend programming in react Js**
+   * **Frontend programming in React Js**
    * **Working with node.**
+
+# Some Pictures...
+<h3> Main Window </h3>
+        In the main window you can perform a number of actions such as:<br> Map loading, simulation start, 
+        simulation speed control and switching to other windows in the application.<br>  <br> 
+ <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/main%20window.png" align="center" 
+      alt="main win"  width="800" height="400"><br>
 
 # Getting Started with Create React App
 
