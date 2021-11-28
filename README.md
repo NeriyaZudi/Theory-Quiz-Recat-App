@@ -1,5 +1,17 @@
+# Theory Quiz React Application <img src="https://img.shields.io/badge/version-2.0-yellowgreen" alt="version" >
 
 
+
+ By: Neriya Zudi | <img src="https://img.shields.io/badge/Neriya-Programmer-blue" alt="Ner" > 
+ 
+   <h3> About the project </h3>
+   <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/Java_programming_language_logo.svg.png" align="right"
+     alt="JAVA logo" width="200" height="98">
+
+     Course-Project Assignments in Java
+     The project simulates the spread of the corona virus
+     Adhesions, recoveries, statistics, ramzor colors for settlements, development of variants and more...
+     The project is java based and GUI implementation so running can be easily controlled
 
 # Getting Started with Create React App
 
