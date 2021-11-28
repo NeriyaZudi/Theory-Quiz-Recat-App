@@ -33,11 +33,18 @@
  <img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/home%20page.png" align="center" 
       alt="home page"  width="800" height="400"><br>
  <h3> Quiz Page </h3>
-        On the Home Page, the Information tab can be opened by clicking
+       The questions page displays 10 questions and you can scroll and answer one of the possible answers
+       It is also possible to return to the home page by clicking on the "Home" button
+       At each stage it is possible to click on the "Check" button and see feedback on the questions that were answered or not answered.
         You can click the "Start Test" button at any time.<br>  <br> 
  <img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/questions.png" align="center" 
       alt="home page"  width="800" height="400"><br>
   <img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/questions1.png" align="center" 
+      alt="home page"  width="800" height="400"><br>
+   <h3> Checking answers </h3>
+        Feedback on the questions answered correctly
+        Questions that were not answered correctly as well as questions that were not answered at all.<br>  <br> 
+ <img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/check.png" align="center" 
       alt="home page"  width="800" height="400"><br>
 
 # Getting Started with Create React App
