@@ -15,17 +15,16 @@
      The site contains an online theory test from the Ministry of Transport's official database of questions
      The test contains 10 questions and is not limited in time, At each stage you can exchange questions and check the answers
      
-   <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" align="right"
-     alt="SCE logo" width="320" height="98">
+   <img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/html-js-css.jpeg" align="right"
+     alt="JS logo" width="320" height="98">
   <hr>
     
    In this project we demonstrate our knowledge in:
-   * **Java programming principles**
-   * **Advanced Object Oriented Programming**
-   * **GUI Graphical user interface**
-   * **Multithreading Programming**
-   * **Design patterns in java**
-   * **Reading and writing files**
+   * **JavaScript programming principles**
+   * **Basic design in Html 5**
+   * **Advanced design in CSS**
+   * **Frontend programming in react Js**
+   * **Working with node.**
 
 # Getting Started with Create React App
 
