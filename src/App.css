@@ -1,0 +1,147 @@
+
+.home{
+  background-color:blanchedalmond;
+  margin: auto 0;
+  text-align: center;
+}
+.home h1{
+  color: blue;
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 50px;
+  text-shadow: 3px 3px black;
+  
+}
+.quiz{
+  background-color:blanchedalmond;
+  margin: auto 0;
+  text-align: center;
+}
+.quiz h1{
+  color:black;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  text-shadow: 3px 3px lightsteelblue;
+
+}
+#logo{
+  margin-left:38%;
+  padding-top:5px;
+  padding-bottom:10px;
+  padding-right: 35%;
+}
+h2{
+  font-size: 1em;
+  text-align: center;
+}
+#welcome{
+  margin-top: 10px;
+  text-align:center
+}
+.home #buttonStart{
+  background-color: black;
+  color: yellowgreen;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-left: 35px;
+}
+#buttonStart:hover{
+  background-color:lightgray;
+  color: yellowgreen;
+}
+
+#questionStyle{
+  text-align: right;
+  direction: rtl;
+}
+.bottons{
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 15px;
+}
+.bottons:hover {
+  background-color: RoyalBlue;
+}
+a{
+  text-decoration: none;
+  border: none;
+  color: white;
+}
+#symbol{
+  padding: 5px;
+  width: 100%;
+  height: 300px;
+}
+details > summary {
+  padding: 10px;
+  top: 50px;
+  width: 200px;
+  background-color:lightsteelblue;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}
+
+details > p {
+  direction: rtl;
+  top: 80px;
+  background-color: #eeeeee;
+  padding: 6px;
+  margin: 0;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+.card{
+  direction: rtl;
+  background-color: lightsteelblue;
+}
+.card .cardBody{
+  direction: rtl;
+  border: 2px solid;
+  padding: 21px;
+  margin: 10px;
+}
+#title{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+.load{
+  border: 40px solid #f3f3f3;
+  border-radius: 50%;
+  margin:auto;
+  width: 100px;
+  height: 100px;
+  border-top: 16px solid #3498db;
+  -webkit-animation: spin 3s linear infinite; /* Safari */
+  animation: spin 3s linear infinite;
+}
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.error_container{
+  text-align: center;
+  color: red;
+  text-shadow: black;
+}
+.error_container img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.error_container #return_home{
+  position: absolute;
+  left:0px;
+  padding: 10px;
+  
+}
