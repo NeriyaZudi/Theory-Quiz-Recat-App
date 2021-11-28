@@ -1,11 +1,13 @@
 # Theory Quiz React Application <img src="https://img.shields.io/badge/version-1.0-yellowgreen" alt="version" >
 
+<img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/background.jpg" align="center"
+     alt="cover" width="600" height="400">
 
 
  By: Neriya Zudi | <img src="https://img.shields.io/badge/Neriya-Programmer-blue" alt="Ner" > 
  
    <h3> About the project </h3>
-   <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/Java_programming_language_logo.svg.png" align="right"
+   <img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/React%20logo.jpg" align="right"
      alt="JAVA logo" width="200" height="98">
 
      Course-Project Assignments in Java
