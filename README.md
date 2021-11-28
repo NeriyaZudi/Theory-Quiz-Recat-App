@@ -27,11 +27,18 @@
    * **Working with node.**
 
 # Some Pictures...
-<h3> Main Window </h3>
-        In the main window you can perform a number of actions such as:<br> Map loading, simulation start, 
-        simulation speed control and switching to other windows in the application.<br>  <br> 
- <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/main%20window.png" align="center" 
-      alt="main win"  width="800" height="400"><br>
+<h3> Home Page </h3>
+        On the Home Page, the Information tab can be opened by clicking
+        You can click the "Start Test" button at any time.<br>  <br> 
+ <img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/home%20page.png" align="center" 
+      alt="home page"  width="800" height="400"><br>
+ <h3> Quiz Page </h3>
+        On the Home Page, the Information tab can be opened by clicking
+        You can click the "Start Test" button at any time.<br>  <br> 
+ <img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/questions.png" align="center" 
+      alt="home page"  width="800" height="400"><br>
+  <img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/questions1.png" align="center" 
+      alt="home page"  width="800" height="400"><br>
 
 # Getting Started with Create React App
 
