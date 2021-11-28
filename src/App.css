@@ -49,6 +49,14 @@ h2{
   background-color:lightgray;
   color: yellowgreen;
 }
+.home #git{
+  color:blueviolet;
+  cursor: pointer;
+  
+}
+a:hover{
+  color:white;
+}
 
 #questionStyle{
   text-align: right;

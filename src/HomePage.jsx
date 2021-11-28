@@ -34,7 +34,8 @@ function HomePage(props){
                 <p>האתר נבנה במסגרת פרוייקט ראשון בReact JS.<br></br>
                 האתר מדמה מבחן תיאוריה עם שאלות מהמאגר הרישמי של משרד התחבורה.
                 <br></br>המבחן כולל 10 שאלות ללא הגבלת זמן וניתן בכל שלב לבדוק את התשובות<br></br>
-                <br></br> ניתן לצפות בקוד המקור <br></br>
+                <br></br>  <a id="git" href="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App" target="_blank">
+                     github </a>  כאן ניתן לצפות בקוד המקור <br></br>
                 </p>
             </details>
  
