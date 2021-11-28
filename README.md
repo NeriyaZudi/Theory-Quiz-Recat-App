@@ -1,4 +1,4 @@
-# Theory Quiz React Application <img src="https://img.shields.io/badge/version-2.0-yellowgreen" alt="version" >
+# Theory Quiz React Application <img src="https://img.shields.io/badge/version-1.0-yellowgreen" alt="version" >
 
 
 
