@@ -8,12 +8,24 @@
  
    <h3> About the project </h3>
    <img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/React%20logo.jpg" align="right"
-     alt="JAVA logo" width="200" height="98">
+     alt="JAVA logo" width="200" height="150">
 
-     Course-Project Assignments in Java
-     The project simulates the spread of the corona virus
-     Adhesions, recoveries, statistics, ramzor colors for settlements, development of variants and more...
-     The project is java based and GUI implementation so running can be easily controlled
+     My first React Js Application
+     The site was built after independent learning in the field of website development
+     The site contains an online theory test from the Ministry of Transport's official database of questions
+     The test contains 10 questions and is not limited in time, At each stage you can exchange questions and check the answers
+     
+   <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" align="right"
+     alt="SCE logo" width="320" height="98">
+  <hr>
+    
+   In this project we demonstrate our knowledge in:
+   * **Java programming principles**
+   * **Advanced Object Oriented Programming**
+   * **GUI Graphical user interface**
+   * **Multithreading Programming**
+   * **Design patterns in java**
+   * **Reading and writing files**
 
 # Getting Started with Create React App
 
