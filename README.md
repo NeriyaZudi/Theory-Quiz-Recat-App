@@ -1,6 +1,5 @@
 # Theory Quiz React Application <img src="https://img.shields.io/badge/version-1.0-yellowgreen" alt="version" >
-
-<h2><a href="https://theory-quiz-react-app.netlify.app/" target=blanck Visit my site here</a></h2>
+<a href="https://theory-quiz-react-app.netlify.app/" target=blanck Visit my site here</a>
 <img src="https://github.com/NeriyaZudi/Theory-Quiz-Recat-App/blob/main/project%20pictures/background.jpg" align="center"
      alt="cover" width="600" height="400">
 
